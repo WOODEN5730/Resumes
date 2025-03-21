@@ -6,7 +6,7 @@ wooden5730@msn.com
 
 
 Professional Profile:
-•  My career reflects many years of experience in the areas of Web applications development   and design, Object oriented analysis and design. Software engineering, Software integration and test, Network engineering, Database engineering and Web Security.
+•  My career reflects many years of experience in the areas of Web applications development and design, Object oriented analysis and design. Software engineering, Software integration and test, Network engineering, Database engineering and Web Security.
 
 Education: 
 Bachelor’s Degree Computer Science, LaSalle University 2001  
@@ -39,8 +39,6 @@ Technical Skills:
 • Build Tools: Azure DevOps, Gradle, Maven, MS Build, Octopus deploy
 • Testing Frameworks: MSTest, NUnit, Xunit, Moq, JustMock and Jasmine 
 • Rest API Test Tools: Swagger, Postman and Fiddler
-
-
 
 
 Work Experience: 
@@ -86,8 +84,6 @@ Responsibilities:
 • Use Visual Studio 2022 to write C# server-side backend API code. 
 • Perform code reviews 
 • Create Unit Tests
-
-
 
 Employer: TMNAS Services 
 1 Bala Plaza Ste 100, Bala Cynwyd, PA 19004 (07/2020 – 04/2023)
