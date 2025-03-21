@@ -1,0 +1,230 @@
+Michael D. Wooden
+5730 Camac Street
+Philadelphia, PA 19141
+(215) 620-9399 (cell)
+wooden5730@msn.com
+
+
+Professional Profile:
+•  My career reflects many years of experience in the areas of Web applications development   and design, Object oriented analysis and design. Software engineering, Software integration and test, Network engineering, Database engineering and Web Security.
+
+Education: 
+Bachelor’s Degree Computer Science, LaSalle University 2001  
+ 
+Additional Professional or Technical Training:
+•	Master of Software Engineering MSE completed 27 of 36 credits Penn State Great Valley.                                                 
+•	ASP.NET Web API Security Architecture, Building Microservices
+•	Azure DevOps, Docker, and Kubernetes, GitHub-Actions, GitLab, Git
+•	RHCSA/RHCE Red Hat Linux Certification Training
+•	Dot Net 8 Microservices: DDD, CQRS, Vertical/Clean Architecture
+•	Advanced SQL Server for Data Analysis
+•	LLM Engineering: Master AI & Large Language Models (LLMs)
+•	Automated ML.NET Training, Metrics, and Accuracy
+                                                                                                                                                                                                                                             
+Technical Skills: 
+• Operating Systems: Windows 11, Red Hat Linux 
+• Languages: C# 12, TypeScript, JavaScript ES6, Python
+• Frameworks: .NET 9, Entity Framework Core, LINQ, ADO.NET 
+• Dependency Injection: Unity, Structure Map,
+• IDE: Visual Studio 2022, Visual Studio Code 
+• Web: Asp.Net Core MVC, Asp.Net Web Api, HTML5, CSS3, Bootstrap 5.0, Ajax.
+• Javascript Frameworks: Node.js, Angular 19, React.js 18, Backbone.js, jQuery, jQuery-UI
+• GUI:  Razor Pages, Blazor, Angular.js, React.js, Web Forms, ASP.NET MVC, XAML
+• Database Software: T-SQL, MS SQL Server 2022, SSMS, Oracle, TOAD, PL/SQL 
+• Communications: HTTPS, SOAP, TCP/IP,  FTP, SMTP, WCF, RabbitMQ and ZeroMQ
+• Scripts: PowerShell, Bash, Korn, Perl, AWK, SED 
+• PC Applic1ations: Microsoft Office Tools
+• Security Software: Windows Defender, MS Security Essentials, Norton Anti-Virus, McAfee
+• Version Control: GIT, GitHub, GitHub-Actions, Azure Repos
+• Build Tools: Azure DevOps, Gradle, Maven, MS Build, Octopus deploy
+• Testing Frameworks: MSTest, NUnit, Xunit, Moq, JustMock and Jasmine 
+• Rest API Test Tools: Swagger, Postman and Fiddler
+
+
+
+
+Work Experience: 
+
+Employer: Apex Systems
+Oneida Technical Solutions
+579 Main St, Oneida, NY 13421 (06/2024 –11/2024)
+Position: Title: Senior Dot Net Full Stack Software Engineer 
+Responsibilities: 
+• Create Automated Unit Tests using Xunit and Moq
+• Use Visual Studio 2022 to write C# server-side Restful APIs. 
+• Work on Azure Virtual Machine 
+• Use Azure DevOps to create CI/CD Build and Release pipelines 
+• Create React.js applications using Visual Studio Code
+• Test Web API endpoints using Swagger
+• Manage software versions using Git/GitHub
+• Create Docker Images and Deploy to Kubernetes
+• Utilize SQL Server Management Studio and Azure SQL to perform database operations
+• Create T-SQL stored procedures, user defined scalar and table-valued functions  
+• Configure .Net 8 middleware components 
+• Debug application code to correct software defects.
+• Create Pull Request for code reviews
+• Create Engineering design documentation
+• Create Data flow diagrams
+
+Employer: Apex Systems
+Varsity Brands
+Memphis, Tennessee (05/2023 – 05/2024)
+Position: Title: Senior Dot Net Full Stack Software Engineer 
+Responsibilities: 
+• Lead design, development, testing and deployment of Reporting Api Web Service 
+• Create React.js applications using Visual Studio Code
+• Test Web API endpoints using Postman and Swagger
+• Manage software versions using Git/GitHub
+• Create Docker Images and Deploy to Kubernetes
+• Use Azure DevOps to create CI/CD Build and Release pipelines 
+• Use Azure Application Insights to monitor application performance, availability, and usage
+• Utilize SQL Server Management Studio and Azure SQL to perform database operations
+• Create T-SQL stored procedures, user defined scalar and table-valued functions  
+• Configure .Net 7 middleware components 
+• Modify existing MVC applications
+• Debug application code to correct software defects.
+• Use Visual Studio 2022 to write C# server-side backend API code. 
+• Perform code reviews 
+• Create Unit Tests
+
+
+
+Employer: TMNAS Services 
+1 Bala Plaza Ste 100, Bala Cynwyd, PA 19004 (07/2020 – 04/2023)
+Position: Title: Senior Dot Net/Full Stack Software Engineer 
+Responsibilities:	
+• Test Web API endpoints using Postman and Swagger
+• Create UIs using Telerik Kendo grid.
+• Use Typescript, HTML5 and CSS3 to modify Angular 14+ components.
+• Correct Angular 14 application bugs.
+• Write C# .Net Restful web services to retrieve data from external API.
+• Create CI/CD Build and Release pipelines using Azure DevOps 
+• Use Azure Boards to plan and track. Review, and update work items. 
+• Use Octopus deploy to deploy application software 
+• Use Team Foundation Server to manage software application life cycle
+• Utilize SQL Server Management Studio to perform Database operations
+• Create T-SQL stored procedures, user defined scalar and table-valued functions  
+• Refactor existing C# server-side code to meet requirement specification 
+• Modify web configurations files for web site deployments
+• Write LINQ queries to retrieve data from Entity Framework Domain classes  
+• Add new controllers, views, and models to existing MVC applications
+• Write server-side code using C#
+
+Employer: Aramark
+2400 Market Street Philadelphia PA 19462 (07/2019 – 06/2020)
+Position: Title: Senior .Net Software Engineer 
+Responsibilities:
+• Lead design, development, test, and deployment of Global Field Financial project.
+• Create ASP.NET Web API applications.
+• Use Fiddler and Postman to test ASP.NET Web API’s.
+• Use Team Foundation Server to manage software application life cycle
+• Utilize SQL Server Management Studio to perform Database operations
+• Create T-SQL stored procedures, user defined scalar and table-valued functions  
+• Write C# sever side code to meet requirement specifications 
+• Write LINQ queries to retrieve data from Entity Framework classes  
+• Create applications from requirements documents 
+• Add new controllers, views, and models to existing MVC applications
+• Debug application code to correct software defects.
+• Write client-side code using HTML5, CSS3, JavaScript, Ajax, jQuery, and jQuery-UI
+• Perform code reviews, Create Unit Tests
+
+Employer: WCG ePharmaSolutions
+1 IMS Drive #200 Plymouth Meeting PA  19462 (07/2018 – 06/2019)
+Position: Title: Senior Software Engineer 
+Responsibilities:
+• Develop Clinical Web Application software to manage clinical trial outcomes
+• Create Angular 9+ application components, routing and services using Angular CLI
+• Create new controllers, views, and models to existing MVC applications
+• Create ASP.NET Core Web API applications.
+• Use GIT to manage software version control
+• Use Fiddler and Swagger to test Web APIs
+• Use Jira to manage the development life cycle.
+• Use SQL Server Management Studio to perform Database operations
+• Write T-SQL scripts
+• Publish web applications to Azure app service from Visual studio publish settings 
+• Write client-side code using Razor, HTML5, CSS3, Bootstrap 4, JavaScript, Ajax, jQuery 
+• Performed code review, Create Unit Tests
+
+Employer: Amyx Inc.  DLA Troop Support – Medical Systems 
+700 Robbins Street, Philadelphia, PA 19111 (06/2017 – 06/2018)
+Position: Title: Senior .Net Software Engineer 
+Responsibilities:  Business Intelligence 
+• Develop Medical ordering system to purchases medical supplies from suppliers  
+• Create and add new controllers, views and models to existing MVC applications
+•  Implement new features and capabilities to MVC product pricing applications
+• Write client-side code using HTML5, CSS3, Razor, JavaScript, Ajax, and jQuery.
+• Write server-side code using C#
+• Write C# algorithms to control the data flow in the business logic layer
+• Utilize TOAD software tool to create SQL packages using Oracle PL/SQL (10g+)
+• Run Fortify Static Code Analyzer against code to check for security vulnerabilities.
+• Create Automated Tests Using MSTest 
+• Employ Team Foundation Server to manage software check-ins and check-outs.
+
+Employer: Vanguard 100 Blvd, Malvern, PA 19355
+100 Blvd, Malvern, PA 19355 (12/01/2016 - 05/31/2017)  
+Position:  Title: Senior Software Engineer
+Responsibilities: Enterprise Security and Fraud Division
+• Work agile team environment to deliver product updates at the end of each Sprint.
+• Write C# .Net automated apps to add security roles to MSSQL, Sybase, and Oracle databases.
+• Write C# .Net Restful web service applications to add user ids and passwords to ID Vault. 
+• Write C# .Net Restful web service applications to retrieve and update passwords in ID Vault.
+• Write C# .Net Class Library to generate and return variable length passwords. 
+• Write C# .Net X509Certificate2 objects to validate data received from the web service  
+• Write C# console applications to test various security applications 
+• Use SQL Server Management Studio to create T-SQL stored procedures and functions.
+
+Employer: Delphinus Engineering Naval Surface Warfare Center
+4747 S Broad St, Phila, PA 19112 (10/2013-11/31/2016)  
+Position: Title: Senior Software Engineer
+Responsibilities:  Training Systems Software
+• Writes Windows desktop applications using C++, C#, and Java.
+• Writes .Net framework Server-Side code using C# and C++.                     
+• Create and manage software repositories using GIT and Subversion software.
+• Utilize Visual Studio and Eclipse to create and modify software projects.
+• Perform code reviews, peer reviews and functional reviews.
+• Perform unit test and integration test.
+• Writes test procedures
+• Install and configure Red Hat Linux OS on VMware virtual machines.
+• Test message system using Mongo DB, Cassandra DB, PostgreSQL, RabbitMQ and ZeroMQ.
+
+Employer: Lockheed Martin Corporation IS & GS,
+King of Prussia, PA 19406 (10/1999 - 2/2013) 
+Senior Software Engineer
+Programs: 
+Mobile Solutions: 
+• Work agile team environment to deliver product updates at the end of each Sprint.
+• Write client-side code using HTML5, CSS3, JavaScript, Ajax and jQuery.
+• Use SQL Server Management Studio to create T-SQL stored procedures and functions.
+• Utilize IIS7 to publish software updates to the development and client web sites.
+ • Employ Team Foundation Server to manage software check-ins and check-outs.
+• Utilize the SSRS reporting system to create complex management reports.
+ Symphony: 
+• Develop new C# Windows Forms applications.
+• Develop Unix/Linux and Windows platforms application software. 
+• Write test case evaluations against requirements to submit to engineering review board.
+• Create PL/SQL procedures to perform CRUD operations and to verify database builds.
+• Document software defects and tracked discrepancies to closure.
+• Utilize requirement documentation to write test case procedures.
+•GEOSCOUT
+• Perform data migration activities in J2EE multi-tiered environment.
+• Execute test threads to track product data flows to ensure the expected results.
+• Write and execute PL/SQL procedures to ensure data type consistency in the back-end.
+• Use Splunk logs to search for software errors, stack traces or other anomalies.
+• Integrate and test J2EE software components in a distributed environment.
+• Execute test case procedures to verify software requirements as expected.
+• Create PL/SQL scripts to verify database table server-side updates.
+
+Employer: Magellan Health Newtown, PA 18940 (9/1993 – 10/1999) 
+Position: Title: Lead Programmer/Analyst
+Responsibilities: 
+• Design developed and implemented provider payment systems.
+• Design and implemented claim systems user interfaces.
+• Create database schemas, tables, views, indexes, and stored procedures
+• Parse member health care eligibility data to load into the database.
+• Create HEDIS reports along with complex financial reports.
+• Review requirement specifications with system users.
+• Test software and reviewed results with user driving software change.
+• Provide guidance to junior level programmers
+
+. Additional Information 
+Security Clearances: Secret, Other: Granted access to (SCI); Completion of SSBI
